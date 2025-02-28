@@ -1,3 +1,10 @@
 # Apple IPhone Landing Page Demo
 
-This repository uses a React interface while showcasing GSAP and Three.js
+A modern Apple style user interface for a product landing page.
+
+In use:
+* Vite
+* React 18
+* Three.js
+* GSAP
+* Tailwind CSS
